@@ -10,3 +10,5 @@ sudo apt-get install vim
 sudo apt-get install g++
 sudo apt-get install libmysqlclient-dev
 sudo apt-get install python-dev
+apt-get install geany
+sudo apt-get install libvte9
