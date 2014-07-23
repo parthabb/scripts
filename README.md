@@ -1,4 +1,3 @@
 scripts
 =======
-
-a collection of useful scripts to configure django/Apache on Linux
+a collection of useful scripts to set up linux
